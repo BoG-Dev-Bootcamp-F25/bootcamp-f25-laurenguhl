@@ -1,0 +1,47 @@
+/* Your Styles Here */
+body {
+    background-color: rgb(55, 88, 64);
+    border: 5px inset white;
+    padding: 10px;
+}
+@keyframes color-change {
+    20% {color: orange;}
+    40% {color: yellow;}
+    60% {color: green;}
+    80% {color: blue;}
+    100% {color: purple;}
+}
+h1 {
+    color: red;
+    text-align: center;
+    animation: color-change 10s infinite alternate;
+}
+.headshot-center {
+    border-radius: 50%;
+    border: 5px solid #5b8f68;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 50% 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    color: white;
+}
+.btn {
+    width: 200px;
+    background-color: white;
+    border: 5px solid #5b8f68;
+    border-radius: 4px;
+    color: #5b8f68;
+    padding: 15px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+.button-container {
+    text-align: center;
+}
