@@ -34,3 +34,13 @@ html, body {
     background-size: 40px 40px;
     background-repeat: no-repeat;
 }
+
+.footer {
+    height: 47px;
+    width: 100%;
+    border-top: 1px solid black;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
