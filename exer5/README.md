@@ -4,6 +4,9 @@
 
 In this project, you'll be creating a frontend that graphically displays Pokémon information (similiar to a Pokédex). To fetch all the necessary information, you'll be working with the [PokeAPI](https://pokeapi.co/docs/v2#pokemon).
 
+## Video Walkthrough
+Watch my video walkthrough [here](https://youtu.be/7DMXs0h12f0).
+
 ## Setting Up
 
 - Make sure your repo is up to date
