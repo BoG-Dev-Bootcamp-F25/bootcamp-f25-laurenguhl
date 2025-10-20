@@ -28,7 +28,7 @@ function PokeInfo({pokemon}) {
                     </div>
                 )}
             </div>
-            <div id="panel-buttons"> 
+            <div className="panel-buttons"> 
                 <button onClick={() => setPanel('Info')} className={panel === 'Info' ? 'selected-btn' : 'unselected-btn'}>Info</button>
                 <button onClick={() => setPanel('Moves')} className={panel === 'Moves' ? 'selected-btn' : 'unselected-btn'}>Moves</button>
             </div>
