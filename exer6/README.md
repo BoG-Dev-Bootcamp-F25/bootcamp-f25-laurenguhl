@@ -8,6 +8,10 @@ In this exercise, bootcampers will familiarize themselves with Next.js, API Endp
 
 See the submission instructions down below.
 
+## Walkthrough
+
+Watch my video [walkthrough](https://youtu.be/701BLrny20k).
+
 - **Due Date**: 10/23
 
 ## Instructions
