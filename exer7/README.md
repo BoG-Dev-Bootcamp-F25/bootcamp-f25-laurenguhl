@@ -8,6 +8,8 @@ In this exercise, bootcampers will familiarize themselves with MongoDB schemas/m
 
 See the submission instructions down below.
 
+View my walkthrough video [here](https://www.youtube.com/watch?v=V2TOoPNNaiw)
+
 ## Instructions
 
 We are going to start working with MongoDB using our knowledge of API endpoints! Make sure that once you `cd` into  `train-tickets` do `npm i`. To get the app to run again do `npm run dev`. We will not be working with any frontend in this exercise - you can interact with the backend using Postman and by seeing your database on MongoDB's website.
